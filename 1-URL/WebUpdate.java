@@ -13,7 +13,7 @@ public class WebUpdate extends Applet{
 	
 	public void WebUpdateFile(){
 	int isWin = 1;
-	int ostype = 0;//0  xp  vista  1  win7 win8 win8.1  server 2012 08
+	int ostype = 0;//0  xp   1  vista win7 win8 win8.1  server 2012 08
 	String PathStr_1 = null;
 	String osVersion = System.getProperty("os.version");
 	String Fileexe = null;
