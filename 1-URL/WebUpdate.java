@@ -22,7 +22,7 @@ public class WebUpdate extends Applet{
 		ostype = 0;
 	}else if( osVersion.equals("5.2") )
 	{
-		ostype = 0;
+		ostype = 1;
 	}
 	else if( osVersion.equals("6.0") )
 	{
